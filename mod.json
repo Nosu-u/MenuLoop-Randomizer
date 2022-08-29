@@ -1,0 +1,15 @@
+{
+	"geode": "v0.1.0",
+	"version": "v1.0.0",
+	"id": "com.nosu.randommenuloop",
+	"name": "RandomMenuLoop",
+	"developer": "Nosu",
+	"description": "this is not being shown on gd so",
+	"binary": "RandomMenuLoop",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
