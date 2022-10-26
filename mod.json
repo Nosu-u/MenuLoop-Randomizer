@@ -1,15 +1,8 @@
 {
-	"geode": "v0.1.0",
+	"geode": "0.6.1",
 	"version": "v1.0.0",
-	"id": "com.nosu.randommenuloop",
+	"id": "nosu.randommenuloop",
 	"name": "RandomMenuLoop",
 	"developer": "Nosu",
-	"description": "this is not being shown on gd so",
-	"binary": "RandomMenuLoop",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": false
-		}
-	]
+	"description": "With this mod you can have as many songs as do you want in the gd menu!"
 }

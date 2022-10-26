@@ -1,7 +1,5 @@
-// credit to Melody♥#1998
-
-#include <Geode.hpp>
-#include <filesystem>
+#include <Geode/Geode.hpp>
+#include <Geode/Modify.hpp>
 #include <fstream>
 #include <iostream>
 
