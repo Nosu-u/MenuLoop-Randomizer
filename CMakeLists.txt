@@ -4,14 +4,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(RandomMenuLoop VERSION 1.0.0)
 
-# Use GLOB_RECURSE instead of GLOB
-# to recursively add all source files 
-# under src/ 
 file(GLOB SOURCES
 	src/*.cpp
 )
 
-# Set up the mod binary
 add_library(${PROJECT_NAME} SHARED ${SOURCES})
 
 if (NOT DEFINED ENV{GEODE_SDK})
